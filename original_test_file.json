@@ -4,7 +4,8 @@
             "Authorization"
         ],
         "AllowedMethods": [
-            "GET"
+            "GET",
+            "POST",
         ],
         "AllowedOrigins": [
             "<url of first bucket with http://...without slash at the end>"
